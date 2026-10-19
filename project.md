@@ -22,12 +22,12 @@ I used 'Measures' in power pivot to make calculation
 
 
 The key insights of the dashboard are:
-- margin(%) per burger
-- selling quantity per day
-- segment-wise preference
-- area-wise preference
-- size preference
-- payment method selection, and so on.<br>
+- Margin(%) per burger
+- Selling quantity per day.
+- Segment-wise preference.
+- Area-wise preference.
+- Size preference.
+- Payment method selection, and so on.<br>
 
 two pictures of dashboard attached below: 
 <img width="1241" height="607" alt="Screenshot 2026-10-19 172601" src="https://github.com/user-attachments/assets/84a1bdf5-2a14-4ee7-b27f-b910a206471b" />
