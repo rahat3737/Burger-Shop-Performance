@@ -1,4 +1,4 @@
-Dowson-Burger-Station-Excel-Dashboard
+Dowson-Burger- Station-Excel-Dashboard- From Order to Insights
 
 I’m delighted to share my latest project on a burger shop, built in MS Excel using a combination of four tables linked through Power Pivot.
 
