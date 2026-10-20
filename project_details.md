@@ -10,7 +10,7 @@ Project File:
 The above link will direct viewer the original dataset, where I worked and visualize my dashboard.<br>
 I also attached the 'EXECUTIVE SUMMARY' of the analyzed data on this repository.
 
-Mainly, I the real agenda of this project is to show how power pivot is used to make calculation, when we have two or more tables. It can be also used to build up calculation among the table and using of pivot table to segmentation and calculation of the data precisely.
+The aim of this project is to show how Power Pivot is used to perform calculations when working with two or more tables. It can also build calculations across related tables. Combined with PivotTables, it allows the data to be segmented and calculated accurately.
 
 
 
